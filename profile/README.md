@@ -1,23 +1,43 @@
-<div align="center">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header.png">
+  <img src="assets/header.gif" alt="Asteru Studio. Independent software studio. Ideas into products." width="1200">
+</picture>
 
-<img src="https://i.ibb.co.com/hRkLhGjS/standart-team-logo-light-nobg.png" alt="Haiku Studio" width="140"/>
+<p align="center">
+  <a href="https://t.me/asterustudio">Studio journal</a> &nbsp; · &nbsp;
+  <a href="https://x.com/asterustudio">X / Twitter</a> &nbsp; · &nbsp;
+  <a href="https://t.me/daniarjabagin">Get in touch</a>
+</p>
 
-<br/>
+## A small studio with work to share.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Independent+development+studio;Web+%E2%80%A2+Backend+%E2%80%A2+Games)](https://git.io/typing-svg)
+**Asteru Studio** is an independent software studio founded by
+[Daniar Jabagin](https://github.com/daniarjabagin), based in Kazakhstan.
 
-# Haiku Studio
+We build our own products and keep working on them after release.
+This is where we share the code, tools, and experiments we make public.
 
-**Independent development studio · Kazakhstan 🇰🇿**
+### What we care about
 
-<br/>
+| Useful from the start                                                     | Better with each release                                              |
+| :------------------------------------------------------------------------ | :-------------------------------------------------------------------- |
+| A clear purpose, a thoughtful interface, and a first version you can try. | Feedback that reaches the developers and improvements you can notice. |
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://haikustudio.space)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haikustudio@inbox.ru)
+### Follow a product as it takes shape.
 
-<br/>
-<br/>
+The [studio journal](https://t.me/asterustudio) is where we post early demos,
+new releases, and the decisions behind them.
 
-<sub>© Haiku Studio</sub>
+Try something. Tell us what feels awkward. Share what you wish it could do.
+We want that conversation to be part of how the product develops.
 
-</div>
+### Work with us
+
+For questions, feedback, or a possible collaboration,
+[message Daniar](https://t.me/daniarjabagin).
+
+---
+
+<p align="center">
+  <sub>Asteru Studio · Kazakhstan · Design, development, and the next iteration.</sub>
+</p>
